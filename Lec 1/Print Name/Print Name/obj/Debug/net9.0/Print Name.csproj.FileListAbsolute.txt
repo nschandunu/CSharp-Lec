@@ -1,0 +1,14 @@
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Print Name/Print Name/obj/Debug/net9.0/Print Name.GeneratedMSBuildEditorConfig.editorconfig
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Print Name/Print Name/obj/Debug/net9.0/Print Name.AssemblyInfoInputs.cache
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Print Name/Print Name/obj/Debug/net9.0/Print Name.AssemblyInfo.cs
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Print Name/Print Name/obj/Debug/net9.0/Print Name.csproj.CoreCompileInputs.cache
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Print Name/Print Name/bin/Debug/net9.0/Print Name
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Print Name/Print Name/bin/Debug/net9.0/Print Name.deps.json
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Print Name/Print Name/bin/Debug/net9.0/Print Name.runtimeconfig.json
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Print Name/Print Name/bin/Debug/net9.0/Print Name.dll
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Print Name/Print Name/bin/Debug/net9.0/Print Name.pdb
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Print Name/Print Name/obj/Debug/net9.0/Print Name.dll
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Print Name/Print Name/obj/Debug/net9.0/refint/Print Name.dll
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Print Name/Print Name/obj/Debug/net9.0/Print Name.pdb
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Print Name/Print Name/obj/Debug/net9.0/Print Name.genruntimeconfig.cache
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Print Name/Print Name/obj/Debug/net9.0/ref/Print Name.dll

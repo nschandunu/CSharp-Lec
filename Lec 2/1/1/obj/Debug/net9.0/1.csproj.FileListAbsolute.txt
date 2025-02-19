@@ -1,0 +1,14 @@
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Lec 2/1/1/bin/Debug/net9.0/1
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Lec 2/1/1/bin/Debug/net9.0/1.deps.json
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Lec 2/1/1/bin/Debug/net9.0/1.runtimeconfig.json
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Lec 2/1/1/bin/Debug/net9.0/1.dll
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Lec 2/1/1/bin/Debug/net9.0/1.pdb
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Lec 2/1/1/obj/Debug/net9.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Lec 2/1/1/obj/Debug/net9.0/1.AssemblyInfoInputs.cache
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Lec 2/1/1/obj/Debug/net9.0/1.AssemblyInfo.cs
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Lec 2/1/1/obj/Debug/net9.0/1.csproj.CoreCompileInputs.cache
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Lec 2/1/1/obj/Debug/net9.0/1.dll
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Lec 2/1/1/obj/Debug/net9.0/refint/1.dll
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Lec 2/1/1/obj/Debug/net9.0/1.pdb
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Lec 2/1/1/obj/Debug/net9.0/1.genruntimeconfig.cache
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/C# Lec/Lec 2/1/1/obj/Debug/net9.0/ref/1.dll
