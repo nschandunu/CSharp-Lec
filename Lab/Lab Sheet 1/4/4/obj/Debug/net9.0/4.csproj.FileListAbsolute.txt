@@ -1,0 +1,15 @@
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/NSBM/Lab/Lab Sheet 1/4/4/obj/Debug/net9.0/4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/NSBM/Lab/Lab Sheet 1/4/4/obj/Debug/net9.0/4.AssemblyInfoInputs.cache
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/NSBM/Lab/Lab Sheet 1/4/4/obj/Debug/net9.0/4.AssemblyInfo.cs
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/NSBM/Lab/Lab Sheet 1/4/4/obj/Debug/net9.0/4.csproj.CoreCompileInputs.cache
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/NSBM/Lab/Lab Sheet 1/4/4/obj/Debug/net9.0/4.sourcelink.json
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/NSBM/Lab/Lab Sheet 1/4/4/bin/Debug/net9.0/4
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/NSBM/Lab/Lab Sheet 1/4/4/bin/Debug/net9.0/4.deps.json
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/NSBM/Lab/Lab Sheet 1/4/4/bin/Debug/net9.0/4.runtimeconfig.json
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/NSBM/Lab/Lab Sheet 1/4/4/bin/Debug/net9.0/4.dll
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/NSBM/Lab/Lab Sheet 1/4/4/bin/Debug/net9.0/4.pdb
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/NSBM/Lab/Lab Sheet 1/4/4/obj/Debug/net9.0/4.dll
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/NSBM/Lab/Lab Sheet 1/4/4/obj/Debug/net9.0/refint/4.dll
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/NSBM/Lab/Lab Sheet 1/4/4/obj/Debug/net9.0/4.pdb
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/NSBM/Lab/Lab Sheet 1/4/4/obj/Debug/net9.0/4.genruntimeconfig.cache
+/Users/senuka/Documents/Projects/Programming Projects/C#/C# Learning/NSBM/Lab/Lab Sheet 1/4/4/obj/Debug/net9.0/ref/4.dll
